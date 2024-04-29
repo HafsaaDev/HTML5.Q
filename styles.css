@@ -1,0 +1,12 @@
+input{
+    width: 10rem;
+    justify-content: space-around;
+}
+fieldset{
+    width: 44px;
+}
+form{
+ 
+background-color: black;
+color :white;
+}
